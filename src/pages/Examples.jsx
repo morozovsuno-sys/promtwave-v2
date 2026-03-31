@@ -1,7 +1,5 @@
-coimport { useState } from 'react'
-
-nst examplesData = [
-  {
+import { useState } from 'react'
+const examplesData = [  {
     genre: 'EDM',
     prompt: '[Intro][Synth pad] Building anticipation with atmospheric sounds[Verse 1]Pulsing bassline, crisp hi-hats, catchy vocal hooks[Pre-Chorus]Rising tension, layered synths[Chorus][Drop]Explosive synth lead, powerful kick, energetic melody[Verse 2]Variation on the verse theme, added elements[Bridge][Breakdown]Stripped-back, emotional, preparing for final drop[Chorus][Drop]Final explosive drop with all elements[Outro]Gradual fade-out, atmospheric conclusion',
     description: 'Энергичный EDM трек с мощным дропом'
