@@ -9,6 +9,9 @@ function Navbar() {
     { to: '/', label: 'Главная' },
     { to: '/generator', label: 'Генератор' },
     { to: '/blog', label: 'Блог' },
+    { to: '/structure', label: 'Структура' },
+    { to: '/mastering', label: 'Мастеринг' },
+    { to: '/examples', label: 'Примеры' },
   ]
 
   return (
